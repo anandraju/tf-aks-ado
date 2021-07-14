@@ -1,4 +1,4 @@
 #data
 #====
 environment = "#{env}#"
-ssh_public_key = "#{sshpubkey}#"
+ssh_public_key = ""
